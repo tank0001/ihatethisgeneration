@@ -157,10 +157,7 @@ client.on("message", async message => {
   if (message.content.toLowerCase().includes(`fuck ohio`)) {
      message.channel.send("FUCK OHIO :100:");
    }
-    
-  if (message.content.toLowerCase().includes(`stan`)) {
-     message.channel.send("kkb");
-   }
+  
 
   if (message.content.toLowerCase().includes(`jack harlow`)) {
      message.channel.send("like this best jack harlow song");
@@ -220,7 +217,7 @@ client.on("message", async message => {
      message.channel.send("doesn't exist");
    }
 
-  if (message.content.toLowerCase().includes(`huz`)) {
+  if (message.content.toLowerCase().includes(`huzzy`)) {
      message.channel.send("bless you 🤧");
    }
 
