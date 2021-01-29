@@ -58,10 +58,6 @@ client.on("message", async message => {
    }
 
 
- if (message.content.toLowerCase().includes(`word`)) {
-     message.channel.send("word");
-   }
-
 
  if (message.content.toLowerCase().includes(`kaischfuckingmoney`)) {
      message.channel.send("if GOLD and my bf :woman_tipping_hand: :two_hearts: both drownin :cold_sweat: :sweat_drops: and i can only save one :point_up: catch me at my boy funeral :skull_crossbones: :coffin: with a gold chain on my neck :key: :prayer_beads: :sparkles: fly as a jet :airplane: :money_with_wings: :stuck_out_tongue_winking_eye:");
