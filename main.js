@@ -68,9 +68,9 @@ client.on("message", async message => {
    }
 
 
- if (message.content.toLowerCase().includes(`snoh`)) {
-     message.channel.send("aalegra crown belongs to kaischmoney");
-   }
+ //if (message.content.toLowerCase().includes(`snoh`)) {
+  //   message.channel.send("aalegra crown belongs to kaischmoney");
+  // }
 
 
  if (message.content.toLowerCase().includes(`fan`)) {
@@ -78,7 +78,7 @@ client.on("message", async message => {
    }
 
 
- if (message.content.toLowerCase().includes(`crying`)) {
+ if (message.content.toLowerCase().includes(`im crying`)) {
      message.channel.send("YOU LUCKY CALLER , HAVE WON THE DREAM OF A LIFETIME!:rainbow::rainbow::rainbow::rainbow::unicorn::unicorn::unicorn:YOU AND 3 OTHERS OF YOUR CHOOSING FROM NEW TROLL, GET TO WATCH :speaking_head:KAIFUCKINSCHMONEY:speaking_head:CRY TO FRANK OCEAN FOR THE EVENING:confetti_ball::tada::partying_face::confetti_ball::tada::partying_face::confetti_ball::partying_face::tada::tada::confetti_ball::smirk_cat::smirk_cat::smirk_cat::raised_hands_tone2::raised_hands_tone2::raised_hands_tone2::raised_hands_tone2::dancer::dancer::dancer::dancer::woman_playing_water_polo::woman_playing_water_polo::woman_playing_water_polo::woman_playing_water_polo::100::100::100::100::zany_face::zany_face::zany_face::zany_face:");
    }
 
@@ -123,7 +123,7 @@ client.on("message", async message => {
    }
 
  if (message.content.toLowerCase().includes(`kailey`)) {
-     message.channel.send("becoming a drainer");
+     message.channel.send("kinz");
    }
 
  if (message.content.toLowerCase().includes(`brockhampton`)) {
@@ -168,9 +168,9 @@ client.on("message", async message => {
      message.channel.send("rondo");
    }
 
-  if (message.content.toLowerCase().includes(`james`)) {
-     message.channel.send("DAT MF !!!");
-   }
+ // if (message.content.toLowerCase().includes(`james`)) {
+//     message.channel.send("DAT MF !!!");
+//   }
 
   if (message.content.toLowerCase().includes(`ameer`)) {
      message.channel.send("Ameer is no longer in BROCKHAMPTON. We want to sincerely apologize to the victims affected by Vann's actions. We were lied to, and we're sorry for not speaking up sooner. We do not tolerate abuse of any kind. This is not a solution to their suffering, but we hope this is a step in the right direction. We are going to cancel the remaining dates of our current US tour to go home and regroup.");
@@ -190,7 +190,7 @@ client.on("message", async message => {
    }
     
   if (message.content.toLowerCase().includes(`texas`)) {
-     message.channel.send("<:letmeLIVE:756588295483555870>");
+     message.react(`756588295483555870`);
    }
 
   if (message.content.toLowerCase().includes(`canada`)) {
@@ -285,9 +285,9 @@ client.on("message", async message => {
      message.channel.send("NO KRISPY KREME SLANDER");
    }
 
-  if (message.content.toLowerCase().includes(`yaul`)) {
-     message.channel.send("its y'all :neutral_face: :neutral_face: :neutral_face: :neutral_face: :neutral_face:");
-   }
+ // if (message.content.toLowerCase().includes(`yaul`)) {
+ //    message.channel.send("its y'all :neutral_face: :neutral_face: :neutral_face: :neutral_face: :neutral_face:");
+ //  }
 
   }
 
