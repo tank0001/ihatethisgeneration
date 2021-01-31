@@ -252,13 +252,6 @@ client.on("message", async message => {
      message.channel.send("I only spend a couple hours a day on Discord, and it's mostly to make my bots better and better my coding skills. I don't enjoy moderation, honestly. It's difficult with people like you in the server.");
    }
 
-  if (message.content.toLowerCase().includes(`good morning`)) {
-     message.channel.send("good morning cuties :relaxed:");
-   }
-
-  if (message.content.toLowerCase().includes(`eddy`)) {
-     message.channel.send("government name Edamame");
-   }
 
   if (message.content.toLowerCase().includes(`yah`)) {
      message.channel.send("yeet!");
