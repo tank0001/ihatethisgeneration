@@ -17,9 +17,9 @@ client.on("message", async message => {
 // replace the `template00000` with the text u want the bot to catch
 // and then the "output" will be what the bot says
 
- if (message.content.toLowerCase().includes(`working`)) {
-     message.channel.send("hi im so sorry for the late rrespond um rough night buuut uhh i dont want you to think im not working like i did alot of sequences yesterday but it seemed like it was all wrong soo ummm im gonna be working on it today cause i do things better when like theyre last minute uhhhhhhhhhhhhhhhhh but yeah im just gonna finish like aaaa chemistry quiz that i have and then ill work on it");
-   }
+// if (message.content.toLowerCase().includes(`working`)) {
+//     message.channel.send("hi im so sorry for the late rrespond um rough night buuut uhh i dont want you to think im not working like i did alot of sequences yesterday but it seemed like it was all wrong soo ummm im gonna be working on it today cause i do things better when like theyre last minute uhhhhhhhhhhhhhhhhh but yeah im just gonna finish like aaaa chemistry quiz that i have and then ill work on it");
+//   }
 
 
  if (message.content.toLowerCase().includes(`my typing yum`)) {
@@ -78,7 +78,7 @@ client.on("message", async message => {
    }
 
 
- if (message.content.toLowerCase().includes(`im crying`)) {
+ if (message.content.toLowerCase().includes(`im crying lol`)) {
      message.channel.send("YOU LUCKY CALLER , HAVE WON THE DREAM OF A LIFETIME!:rainbow::rainbow::rainbow::rainbow::unicorn::unicorn::unicorn:YOU AND 3 OTHERS OF YOUR CHOOSING FROM NEW TROLL, GET TO WATCH :speaking_head:KAIFUCKINSCHMONEY:speaking_head:CRY TO FRANK OCEAN FOR THE EVENING:confetti_ball::tada::partying_face::confetti_ball::tada::partying_face::confetti_ball::partying_face::tada::tada::confetti_ball::smirk_cat::smirk_cat::smirk_cat::raised_hands_tone2::raised_hands_tone2::raised_hands_tone2::raised_hands_tone2::dancer::dancer::dancer::dancer::woman_playing_water_polo::woman_playing_water_polo::woman_playing_water_polo::woman_playing_water_polo::100::100::100::100::zany_face::zany_face::zany_face::zany_face:");
    }
 
@@ -185,7 +185,7 @@ client.on("message", async message => {
      message.react(`760552675346481182`);
    }
 
-  if (message.content.toLowerCase().includes(`quit being cute`)) {
+  if (message.content.toLowerCase().includes(`no being cute`)) {
      message.channel.send("<:stopbeingcute:760955473817108491>");
    }
     
