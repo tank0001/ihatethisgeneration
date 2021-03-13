@@ -23,7 +23,7 @@ client.on("message", async message => {
 
 
  if (message.content.toLowerCase().includes(`my typing yum`)) {
-     message.channel.send("i#mahut");
+     message.channel.send("hey. that is a big v#cut doen");
    }
 
  if (message.content.toLowerCase().includes(`shutuplol`)) {
